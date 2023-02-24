@@ -38,7 +38,7 @@ Install all required libraries:
 3. Training with Cross-entropy Loss and testing with MSP  
  ``sh run.sh 2``
  
-3. Testing with MSP or Entropy plus Bayes  
+3. Testing with MSP plus Bayes  
  ``sh run.sh 3``
 
 
